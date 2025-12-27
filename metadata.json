@@ -1,0 +1,5 @@
+{
+  "name": "OmniConvert PWA",
+  "description": "A high-performance, offline-first unit converter for length, mass, temperature, and more.",
+  "requestFramePermissions": []
+}
